@@ -1,0 +1,32 @@
+[
+    {
+        "gmail": "testlogin879@gmail.com",
+        "password": "@lolomo123",
+        "status": "Subsribing",
+        "video_link": "die0EXTQ9iA",
+        "subscribe": true,
+        "like": true,
+        "comment": true,
+        "setcomment": "thanks bro"
+    },
+    {
+        "gmail": "inigo9943@gmail.com",
+        "password": "@lolomo09",
+        "status": "Gmail requires verification",
+        "video_link": "die0EXTQ9iA",
+        "subscribe": true,
+        "like": true,
+        "comment": true,
+        "setcomment": "thanks bro"
+    },
+    {
+        "gmail": "j71713448@gmail.com",
+        "password": "@lolomo09",
+        "status": "Gmail requires verification",
+        "video_link": "die0EXTQ9iA",
+        "subscribe": true,
+        "like": true,
+        "comment": true,
+        "setcomment": "thanks bro"
+    }
+]
